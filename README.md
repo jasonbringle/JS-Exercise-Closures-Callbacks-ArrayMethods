@@ -31,7 +31,7 @@ If you run into trouble while coding, fight the good fight for 20 minutes and th
 
 Find the file `index.js` and complete the tasks until your tests are passing. One of the tests corresponds to a stretch task! Attempt the stretch task only after completing all other tasks.
 
-## Get Started
+## Get Started ##
 
 <summary><strong>Using VSCode and a Command Line:</strong></summary>
 
